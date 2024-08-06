@@ -1,6 +1,6 @@
 ### Olá :octocat:
 :cyclone::cyclone:
-Óla me chamo Daniel, programador Front End, atualmente Aperfeiçoando:
+me chamo Daniel, programador Front End, atualmente Aperfeiçoando:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-icon"/>
