@@ -24,6 +24,6 @@ Olá! Sou Daniel, um entusiasta da tecnologia e aspirante a desenvolvedor web em
 
 ----------------
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](dan.alves450@gmail.com) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/daniel.alves27/) [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/daniel-alves2)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/daniel.alves27/) [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/daniel-alves2/)
 
 
