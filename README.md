@@ -20,8 +20,8 @@ Olá! Sou Daniel, um entusiasta da tecnologia e aspirante a desenvolvedor web em
 
 ----------------
 
-<img src="https://github-readme-stats.vercel.app/api?username=DaniAlves27&show_icons=true&theme=dracula" width="400"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniAlves27&layout=compact&theme=dracula" width="400"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniAlves27&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniAlves27&layout=compact&theme=dracula)
 
 ----------------
 
