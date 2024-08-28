@@ -21,7 +21,8 @@ Olá! Sou Daniel, um entusiasta da tecnologia e aspirante a desenvolvedor web em
 ----------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniAlves27&show_icons=true&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniAlves27&layout=compact&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniAlves27&layout=donut&theme=dracula)
 
 ----------------
 
